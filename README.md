@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/danphillips?theme=light&font=Lancelot)
+![LeetCode Stats](https://leetcard.jacoblin.cool/danphillips?theme=dark&font=Lancelot)
 
 <!---
 dtp77/dtp77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

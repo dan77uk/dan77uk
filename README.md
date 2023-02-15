@@ -1,17 +1,25 @@
 ![](header.png)
 
-<div style="margin: 20px 0;">
-<h3>Hi there! :wave:</h3>
-<p>I'm a software developer with a passion for all things code. Whether we're talking immersive frontend UI's or spaghetti APIs, data structure and algorithm problems, or custom reusable hooks; it's all good! </p>
-</div>
+:wave:
 
-<div>
-<h3>Mini React Apps</h3>
-<p>These are mini apps I've created with React.js to practice various skills or just have a bit of fun</p>
-<ul style="display: flex; list-style-type: none; gap: 30px;">
-<li>Karban</li>
-<li>Memory Game</li>
-<li>Jobs Listings</li>
+I'm a software developer with a passion for all things code. Whether we're talking immersive frontend UI's or spaghetti APIs, data structure and algorithm problems, or custom reusable hooks; it's all good!
 
-</ul>
-</div>
+## Project/Repo Links
+
+The links below are to help you navigate quickly around my GitHub repos.
+
+### Full Stack
+
+- Events [Repo](https://github.com.dan77uk) | [LiveSite]()
+- Blog [Repo](https://github.com.dan77uk) | [LiveSite]()
+- WhatKnot [Repo](https://github.com.dan77uk) | [LiveSite]()
+
+### Data Structures & Algorithms
+
+- Leetcode Challenges [Repo](https://github.com.dan77uk)
+
+### Mini React Apps
+
+- Karban [Repo](https://github.com.dan77uk) | [LiveSite]()
+- Job Listings [Repo](https://github.com.dan77uk) | [LiveSite]()
+- Memory Game [Repo](https://github.com.dan77uk) | [LiveSite]()

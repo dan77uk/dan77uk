@@ -2,7 +2,7 @@
 
 :wave:
 
-I'm a software developer with a passion for all things code. Whether we're talking immersive frontend UI's or spaghetti APIs, data structure and algorithm problems, or custom reusable hooks, you had me at hello world.
+## You had me at hello world!
 
 <!--
 ## Project/Repo Links

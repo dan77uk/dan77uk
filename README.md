@@ -1,8 +1,7 @@
 :wave:
 
-### Senior Platform Engineer working on UK national security infrastructure.
+### Senior Platform Engineer.
 
-Day to day: AWS EKS, Istio ambient mesh, Karpenter, Terraform, ArgoCD, GitLab CI/CD.
+Day to day: AWS EKS, Istio ambient mesh, Karpenter, Terraform, GitLab CI/CD.
 
-Currently building an AI-assisted Kubernetes incident response tool using AWS Bedrock and RAG.
 
